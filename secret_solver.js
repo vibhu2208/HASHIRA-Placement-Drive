@@ -83,6 +83,7 @@ if(testCase2) {
 console.log(`\nFinal Results:`);
 console.log(`Result 1: ${secret1}`);
 console.log(`Result 2: ${secret2}`);
+console.log(`let's meet in another round`);
 
 function readFromJsonFile(filename) {
     try {
